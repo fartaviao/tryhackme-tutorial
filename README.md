@@ -41,10 +41,10 @@ To follow this guide, ensure you have:
 - An active internet connection.
 
 ## Documentation and Screenshots
-For detailed documentation and step-by-step guide, refer to the [main documentation](https://github.com/fartaviao/tryhackme-tutorial/blob/main/tutorial.md)
+For detailed documentation and step-by-step guide, refer to the [Main Documentation](https://github.com/fartaviao/tryhackme-tutorial/blob/main/Tutorial.md)
 as well you can check the [Screenshots](https://github.com/fartaviao/tryhackme-tutorial/blob/main/Screenshots/Screenshots.md) for better clarity of the process.
 
-You also can access the full Write up document here [Write Up](https://github.com/fartaviao/tryhackme-tutorial/blob/main/tutorial-write-up.pdf)
+You also can access the full Write Up document here [Write Up](https://github.com/fartaviao/tryhackme-tutorial/blob/main/tutorial-write-up.pdf)
 
 ## How to Use This Repository
 1. Clone this repository:
