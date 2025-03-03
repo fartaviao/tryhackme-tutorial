@@ -5,12 +5,12 @@ Below you have some visual guides to better understand the functionality and out
 ---
 
 ## Start Machine (wait around 1 min to the target IP)
-![Start Machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-01.png?token=GHSAT0AAAAAAC72OB6JRC3JEY722DF6E4U4Z6F6ONA)
+![Start Machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-01.png?token=GHSAT0AAAAAAC72OB6I4GOL4OAPIWP4GEASZ6F6VIA)
 
 ---
 
 ## Access the VPN settings (Select **Access**)
-![Access the VPN settings](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-02.png?token=GHSAT0AAAAAAC72OB6IB7GNVPSH2KMHIOCAZ6F6PGA)
+![Access the VPN settings](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-02.png?token=GHSAT0AAAAAAC72OB6IZWBEYG3DTRZHXU7IZ6F6WKA)
 
 ---
 
