@@ -5,47 +5,47 @@ Below you have some visual guides to better understand the functionality and out
 ---
 
 ## Start Machine (wait around 1 min to the target IP)
-![Start Machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-01.png?token=GHSAT0AAAAAAC72OB6I4GOL4OAPIWP4GEASZ6F6VIA)
+![Start Machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-01.png)
 
 ---
 
 ## Access the VPN settings (Select **Access**)
-![Access the VPN settings](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-02.png?token=GHSAT0AAAAAAC72OB6IZWBEYG3DTRZHXU7IZ6F6WKA)
+![Access the VPN settings](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-02.png)
 
 ---
 
 ## Download the configuration file (Click on **Download My Configuration File**)
-![Download the configuration file](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-03.png?token=GHSAT0AAAAAAC72OB6J4D56TDDU2UEL57DIZ6F6P3A)
+![Download the configuration file](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-03.png)
 
 ---
 
 ## Download the script from `safevpn-thm.sh` on GitHub. (Click on **safevpn-thm.sh**)
-![Download the script from `safevpn-thm.sh` on GitHub.](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-04.png?token=GHSAT0AAAAAAC72OB6IEJXWRXBNE4CR7IM4Z6F6Q6A)
+![Download the script from `safevpn-thm.sh` on GitHub.](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-04.png)
 
 ---
 
 ## Download the script from `safevpn-thm.sh` on GitHub. (Click on the down arrow)
-![Download the script from `safevpn-thm.sh` on GitHub.](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-05.png?token=GHSAT0AAAAAAC72OB6IVN267V7SCCLLQJ6EZ6F6RMQ)
+![Download the script from `safevpn-thm.sh` on GitHub.](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-05.png)
 
 ---
 
 ## Run the script to configure firewall rules
-![Run the script to configure firewall rules](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-06.png?token=GHSAT0AAAAAAC72OB6JCMFDHS4KI5B5KBIIZ6F6RYA)
+![Run the script to configure firewall rules](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-06.png)
 
 ---
 
 ## Find the *flag* on the web page
-![Find the *flag* on the web page](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-07.png?token=GHSAT0AAAAAAC72OB6ICNPECGZCPTPNZZDUZ6F6SEQ)
+![Find the *flag* on the web page](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-07.png)
 
 ---
 
 ## Copy the *flag* and paste it into TryHackMe
-![Copy the *flag* and paste it into TryHackMe](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-08.png?token=GHSAT0AAAAAAC72OB6IF5YMPGJBXMOVNPXEZ6F6SQQ)
+![Copy the *flag* and paste it into TryHackMe](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-08.png)
 
 ---
 
 ## Click *Submit* to complete the machine
-![Click *Submit* to complete the machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-09.png?token=GHSAT0AAAAAAC72OB6IYUTVAPQ62PWPUPG2Z6F6S3Q)
+![Click *Submit* to complete the machine](https://raw.githubusercontent.com/fartaviao/tryhackme-tutorial/refs/heads/main/Screenshots/Screenshot-09.png)
 
 ---
 
